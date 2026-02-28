@@ -1,6 +1,6 @@
 <div align="center">
 
-# Blizera
+# ⛄️ Blizera ⛄️
 ### Self-taught developer building across games, web, and bots.
 
 </div>
