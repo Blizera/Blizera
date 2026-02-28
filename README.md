@@ -1,7 +1,7 @@
 <div align="center">
 
 # ⛄️ Blizera ⛄️
-### CS Student and self taught Developer building systems across games, web, and bots.
+### Computer Science Student building systems across games, web, and bots.
 
 </div>
 
