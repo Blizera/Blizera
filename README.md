@@ -9,7 +9,7 @@
 
 ## About Me
 
-I'm a CS Student, however I self taught developer most of what I've learned independently, no courses, no bootcamps, just building real things and figuring it out. I work across three domains: Roblox game development, full-stack web, and Discord bots. Most of my work lives in personal projects where I prototype, test, and refine systems until they're actually good.
+I'm a CS Student, however I taught myself most of what I've learned independently, no courses, no bootcamps, just building real things and figuring it out. I work across three domains: Roblox game development, full-stack web, and Discord bots. Most of my work lives in personal projects where I prototype, test, and refine systems until they're actually good.
 
 ---
 
