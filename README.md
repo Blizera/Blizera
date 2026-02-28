@@ -18,7 +18,7 @@ I'm a CS Student, however I taught myself most of what I've learned independentl
 **🎮 Roblox - Game Development**
 I build complete game systems in Luau, handling both server and client side. My work covers:
 - Persistent data systems using DataStore with fallback handling
-- Combat mechanics with server-authoritative hit validation
+- Combat mechanics with server authoritative hit validations
 - Custom UI and menu systems built with Roblox's UI engine
 - Admin tooling for moderation and runtime control
 - Matchmaking and lobby systems with player queue management
